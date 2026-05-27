@@ -1,4 +1,4 @@
-# EMDA-Net
+# EMDA-Net: Earth Mover’s Distance (EMD) influenced Attention-aided Neural Network for Medical Image Classification
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/EMDA-Net-Earth-Mover-s-Distance-influenced-Attention-aided-Network-for-Medical-Image-Classification/blob/main/ham.ipynb) and [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/EMDA-Net-Earth-Mover-s-Distance-influenced-Attention-aided-Network-for-Medical-Image-Classification/blob/main/sipakmed.ipynb) and [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/EMDA-Net-Earth-Mover-s-Distance-influenced-Attention-aided-Network-for-Medical-Image-Classification/blob/main/breakhis.ipynb)<br/>
 This is the official implementation of "EMDA-Net: Earth Mover’s Distance (EMD) influenced Attention-aided Neural Network for Medical Image Classification".
 
